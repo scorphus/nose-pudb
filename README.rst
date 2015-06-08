@@ -19,7 +19,7 @@ Installation
 
 Install nose-pudb using pip::
 
-    $ pip nose-pudb
+    $ pip install nose-pudb
 
 Or you can clone the source using `git <http://git-scm.com/>`_ from http://github.com/AntoineD/nose-pudb.git and install it with::
 
